@@ -27,6 +27,9 @@ This analysis uses data from Opportunity Insights, which is a research team base
 - [Somerset County HS Graduation Rate Hispanics Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Somerset_County_HS_Graduation_Rate_Hispanics_Data.xlsx)
 - [Somerset County HS Graduation Rate White Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Somerset_County_HS_Graduation_Rate_White_Data.xlsx)
 ## Data Question - Analysis
+This analysis uses Microsoft Excel to answer the following questions: 
+- In both Basking Ridge and Baltimore, how do the high school graduation rates impact household income? 
+- How do Basking Ridge and Baltimore compare in terms of high school graduation rates, household income, and discrepancies between races?
 ## Data Answer
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/High%20School%20Graduation%20Rates%20in%20Somerset%20County%2C%20NJ.png)
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Household%20Income%20in%20Basking%20Ridge%2C%20NJ.png)
