@@ -34,4 +34,10 @@ This analysis uses Microsoft Excel to answer the following questions:
 ## Data Answer
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Basking%20Ridge's%20Household%20Income%20Compared%20to%20Somerset%20County's%20High%20School%20Graduation%20Rate.png)
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Baltimore%20City's%20Household%20Income%20Compared%20to%20High%20School%20Graduation%20Rate.png)
+
+A similarity between the two cities is that the higher the high school graduation rates for each race, the greater the household income. However, a major difference is that the household income for all races in Basking Ridge - $75,686.33 - is much greater than that in Baltimore City - $27,591. The Somerset County high school graduation rate for all races - 93% - is also greater than that for Baltimore City - 78%. The differential between high school graduation rates - 15% - does not seem to completely explain the gap in household income ($48,095.33), so high school graduation rates are critical to social mobility but are insufficient by themselves to completely predict future household income. The Basking Ridge data provides further evidence in support of this claim because te 90% high school graduation rate for blacks does not seem to reflect the $35,374 household income they earn. 
+
+In both Basking Ridge and Baltimore, high school graduation rates and household incomes tend to be higher for whites and Asians than for Hispanics and blacks. The study compares the outcomes of children that grew up in the same city, so racial discrepancies show the existence of inequal opportunities for certain groups, who may face other barriers that inhibit social mobility. There also seems to be greater racial disparities in Basking Ridge since the range for household income is $43,847 whereas that for Baltimore City is $19,305.
+
+
 ## Business Answer
