@@ -39,7 +39,7 @@ A similarity between the two cities is that the higher the high school graduatio
 
 In both Basking Ridge and Baltimore, high school graduation rates and household incomes tend to be higher for whites and Asians than for Hispanics and blacks. The study compares the outcomes of children that grew up in the same city, so racial discrepancies show the existence of inequal opportunities for certain groups, who may face other barriers that inhibit social mobility. There also seems to be greater racial disparities in Basking Ridge since the range for household income is $43,847 whereas that for Baltimore City is $19,305.
 
-The differential between high school graduation rates - 15% - does not seem to completely explain the gap in household income ($48,095.33), so high school graduation rates are critical to social mobility but are insufficient by themselves to completely predict future household income. The Basking Ridge data provides further evidence in support of this claim because te 90% high school graduation rate for blacks does not seem to reflect the $35,374 household income they earn. 
+The differential between high school graduation rates - 15% - does not seem to completely explain the gap in household income ($48,095.33), so high school graduation rates are important to social mobility but are insufficient by themselves to completely predict future household income. The Basking Ridge data provides further evidence in support of this claim because te 90% high school graduation rate for blacks does not seem to reflect the $35,374 household income they earn. 
 
 
 ## Business Answer
