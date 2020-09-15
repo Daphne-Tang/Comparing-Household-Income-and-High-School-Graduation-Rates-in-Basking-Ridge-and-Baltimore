@@ -1,6 +1,6 @@
 # Comparing Household Income and High School Graduation Rates in Basking-Ridge and Baltimore By Race
 ## Background
-This analyzes the relationship betwen Basking Ridge, New Jersey's household income to Somerset County, New Jersey's high school graduation rates by race. I replicated this city-to-county level analysis for Baltimore City, Maryland. 
+The analysis compares Basking Ridge, New Jersey's household income to Somerset County, New Jersey's high school graduation rates by race. I replicated this city-to-county level comparison for Baltimore City, Maryland. 
 
 ## Business Question
 How do high school graduation rates impact household income in both Basking Ridge and Baltimore, and what do the discrepancies between different races show about social mobility in both cities?  
