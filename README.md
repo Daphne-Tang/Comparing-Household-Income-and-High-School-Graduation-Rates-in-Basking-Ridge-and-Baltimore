@@ -14,7 +14,7 @@ High school graduation rates for Baltimore City: Each spreadsheet shows informat
 - [Baltimore City HS Graduation Rate Blacks Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Baltimore_City_HS_Graduation_Rate_Blacks_Data.xlsx)
 - [Baltimore City HS Graduation Rate Hispanics Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Baltimore_City_HS_Graduation_Rate_Hispanics_Data.xlsx)
 - [Baltimore City HS Graduation Rate Whites Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Baltimore_City_HS_Graduation_Rate_Whites_Data.xlsx)
-
+ 
 Household income for Baltimore City: Each spreadsheet shows information for one race or all races, and the columns have the city codes and names. 
 - [Baltimore City Household Income All Races Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Baltimore_City_Household_Income_All_Races_Data.xlsx)
 - [Baltimore City Household Income Asian Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Baltimore_City_Household_Income_Asian_Data.xlsx)
