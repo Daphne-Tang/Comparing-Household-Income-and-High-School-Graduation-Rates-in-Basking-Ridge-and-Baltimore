@@ -20,10 +20,10 @@
 2. Analysis for Somerset County High School Graduation Rates
 - Open up all of the different data sets for Somerset County High School Graduation Rates
 - Copy and paste the city code associated with Somerset County, NJ and create a chart 
+- For all categories of races, use VLOOKUP to enter the high school graduation rate. 
 
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2011.24.57%20PM.png)
 
-- For all categories of races, use VLOOKUP to enter the high school graduation rate. 
 - Highlight the data and click "Insert," "Recommended Charts," and "Clustered Bar." Rename the title to "High School Graduation Rates in Somerset County, NJ."
 
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/High%20School%20Graduation%20Rates%20in%20Somerset%20County%2C%20NJ.png)
