@@ -53,3 +53,23 @@ In both Basking Ridge and Baltimore, high school graduation rates and household 
 ## Business Answer
 
 This analysis demonstrates that high school graduation rates influence household income but are insufficient to explain future earnings. Other factors, such as racial inequality, could be inhibiting social mobility. This finding is important for me as a student and for my career because it has increased my awareness of the lack of equal opportunities for certain groups, especially since the data shows that children of different races who grew up in the same area can have much different outcomes, on average.
+
+## Step-By-Step Instructions for Data Analysis
+1. Analysis for Basking Ridge Household Income
+- Open up [Basking Ridge Household Income All Races Data](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Original%20Datasets/Basking_Ridge_Household_Income_All_Races_Data.xlsx) data
+- Copy and paste the multiple tract numbers associated with Basking Ridge, Bernards, NJ. Create a chart like the following:
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2010.55.15%20PM.png)
+- For all categories of races, use VLOOKUP to enter the household income for each of the identified census tracts. 
+- Use the AVERAGE function to find the household income mean for each race
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2011.01.58%20PM.png)
+
+- Use the TRANSPOSE function to rearrange the data
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2010.58.46%20PM.png)
+
+- Highlight the data and click "Insert," "Recommended Charts," and "Clustered Bar." Rename the title to "Household Income in Basking Ridge, NJ."
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Household%20Income%20in%20Basking%20Ridge%2C%20NJ.png)
+
