@@ -19,9 +19,9 @@
 
 2. Analysis for Somerset County High School Graduation Rates
 - Open up all of the different data sets for Somerset County High School Graduation Rates
-- Copy and paste the city code associated with Somerset County, NJ. Create a chart like the following: 
+- Copy and paste the city code associated with Somerset County, NJ and create a chart 
 
-![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2011.08.02%20PM.png)
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2011.24.57%20PM.png)
 
 - For all categories of races, use VLOOKUP to enter the high school graduation rate. 
 - Highlight the data and click "Insert," "Recommended Charts," and "Clustered Bar." Rename the title to "High School Graduation Rates in Somerset County, NJ."
@@ -36,3 +36,33 @@
 - Highlight the data and click "Insert," "Recommended Charts," and "Clustered Column." Rename the title to "Basking Ridge's Household Income Compared to Somerset County's High School Graduation Rate."
 
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Basking%20Ridge's%20Household%20Income%20Compared%20to%20Somerset%20County's%20High%20School%20Graduation%20Rate.png)
+
+4. Analysis for Baltimore City's Household Income 
+- Open up all of the different data sets for Baltimore City's Household Income 
+- Copy and paste the city code associated with Baltimore City, Maryland and create a chart
+- For all categories of races, use VLOOKUP to enter the high school graduation rate. 
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2011.19.43%20PM.png)
+- Highlight the data and click "Insert," "Recommended Charts," and "Clustered Bar." Rename the title to "Household Income in Baltimore City, MD."
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Household%20Income%20in%20Baltimore%20City%2C%20MD.png)
+
+5. Analysis for Baltimore City's High School Graduation Rates
+- Open up all of the different data sets for Baltimore City's High School Graduation Rate
+- Copy and paste the city code associated with Baltimore City, Maryland and create a chart
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2011.21.37%20PM.png)
+
+- For all categories of races, use VLOOKUP to enter the high school graduation rate. 
+- Highlight the data and click "Insert," "Recommended Charts," and "Clustered Bar." Rename the title to "Household Income in Baltimore City, MD."
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/High%20School%20Graduation%20Rates%20in%20Baltimore%20City%2C%20MD.png)
+
+6. Analysis for Baltimore City's Household Income Compared to Its High School Graduation Rate
+- Copy the data from Baltimore City's household income and high school graduation rate into a table like below: 
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Step-By-Step%20Instructions/Screen%20Shot%202020-09-15%20at%2011.23.33%20PM.png)
+
+- Highlight the data and click "Insert," "Recommended Charts," and "Clustered Column." Rename the title to "Baltimore City's Household Income Compared to High School Graduation Rate."
+
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Baltimore%20City's%20Household%20Income%20Compared%20to%20High%20School%20Graduation%20Rate.png)
