@@ -1,6 +1,6 @@
 # Comparing Household Income and High School Graduation Rates in Basking-Ridge and Baltimore By Race
 ## Background
-The analysis compares Basking Ridge, New Jersey's household income to Somerset County, New Jersey's high school graduation rates by race. I replicated this city-to-county level comparison for Baltimore City, Maryland. 
+An interesting aspect of the research into social mobility is how critical high school graduation rates are to household income and how that differs by race. The analysis compares Basking Ridge, New Jersey's household income to Somerset County, New Jersey's high school graduation rates by race and replicates the city-to-county level comparison for Baltimore City, Maryland. 
 
 ## Business Question
 How do high school graduation rates impact household income in both Basking Ridge and Baltimore, and what do the discrepancies between different races show about social mobility in both cities?  
@@ -44,12 +44,12 @@ This analysis uses Microsoft Excel to answer the following questions:
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Basking%20Ridge's%20Household%20Income%20Compared%20to%20Somerset%20County's%20High%20School%20Graduation%20Rate.png)
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore/blob/master/Baltimore%20City's%20Household%20Income%20Compared%20to%20High%20School%20Graduation%20Rate.png)
 
-The differential between high school graduation rates - 15% - does not seem to completely explain the gap in household income ($48,095.33), so high school graduation rates are important to social mobility but are insufficient by themselves to completely predict future household income. The Basking Ridge data provides further evidence in support of this claim because te 90% high school graduation rate for blacks does not seem to reflect the $35,374 household income they earn. 
+For Basking Ridge and Baltimore, the small differential between high school graduation rates for all races (15%) does not seem to completely explain the large gap in household income for all races ($48,095.33), so high school graduation rates are important to social mobility but are insufficient by themselves to completely predict future household income. The Basking Ridge data provides further evidence in support of this claim because te 90% high school graduation rate for blacks does not seem to reflect the $35,374 household income they earn. 
 
-A similarity between the two cities is that the higher the high school graduation rates for each race, the greater the household income. However, a major difference is that the household income for all races in Basking Ridge - $75,686.33 - is much greater than that in Baltimore City - $27,591. The Somerset County high school graduation rate for all races - 93% - is also greater than that for Baltimore City - 78%. 
+A similarity between the two cities is that the higher the high school graduation rates for each race, the greater the household income. However, a major difference is that the household income for all races in Basking Ridge ($75,686.33) is much greater than that in Baltimore City ($27,591). The Somerset County high school graduation rate for all races (93%) is also greater than that for Baltimore City (78%). 
 
 In both Basking Ridge and Baltimore, high school graduation rates and household incomes tend to be higher for whites and Asians than for Hispanics and blacks. The study compares the outcomes of children that grew up in the same city, so racial discrepancies show the existence of inequal opportunities for certain groups, who may face other barriers that inhibit social mobility. There also seems to be greater racial disparities in Basking Ridge since the range for household income is $43,847 whereas that for Baltimore City is $19,305.
 
 ## Business Answer
 
-This analysis demonstrates that high school graduation rates influence household income but are insufficient to explain future earnings, especially in terms of racial disparities. 
+This analysis demonstrates that high school graduation rates influence household income but are insufficient to explain future earnings. Other factors, such as racial inequality, could be inhibiting social mobility. This finding is important for me as a student and for my career because it has increased my awareness of the lack of equal opportunities for certain groups, especially since the data shows that children of different races who grew up in the same area can have much different outcomes, on average.
