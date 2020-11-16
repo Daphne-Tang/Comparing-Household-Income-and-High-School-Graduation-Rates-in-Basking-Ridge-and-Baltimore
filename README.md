@@ -52,7 +52,7 @@ In both cities, high school graduation rates and household incomes tend to be hi
 
 ## Business Answer
 
-This analysis demonstrates that high school graduation rates influence household income but are insufficient to explain future earnings. Other factors, such as racial inequality, could be inhibiting social mobility. This finding is important for me as a student and for my career because it has increased my awareness of the lack of equal opportunities for certain groups, especially since the data shows that children of different races who grew up in the same area can have much different outcomes, on average.
+This analysis demonstrates that a strong association appears to exist between high school graduation rates and household income. However, the data also indicates that high school graduation rates could be insufficient by themselves to explain future earnings. Other factors, such as racial inequality and varying job opportunities in different geographic locations, could be inhibiting social mobility. I would like to investigate these other variables to further explain the relationship between high school graduation rates and household income. These findings are important for me as a student and for my career because it has increased my awareness of the lack of equal opportunities for certain groups, especially since the data shows that children of different races who grew up in the same area can have much different outcomes, on average.
 
 ## Data Visuals With Python
 
@@ -62,3 +62,5 @@ This analysis demonstrates that high school graduation rates influence household
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Python%20-%20Baltimore%20City%20Average%20Household%20Income%20By%20Race.png)
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Python%20-%20Basking%20Ridge%20Average%20Household%20Income%20By%20Race.png)
 ![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Python%20-%20Somerset%20County%20High%20School%20Graduation%20Rates%20By%20Race.png)
+
+Using Python to replicate the analysis was quite different from using Excel. One major difference that I found was that Excel allows you to immediately see the results of your analysis (e.g. the cells would automatically change when I filtered for specific data). In Python, however, I cannot immediately see what happens when I run lines of code and would have to preview the dataset to verify the changes. Another benefit of Excel was that I can see the entire dataset more clearly, which could be useful when analyzing smaller datasets. However, if larger datasets cause Excel to work slowly or frequently crash, I would use Python instead. 
