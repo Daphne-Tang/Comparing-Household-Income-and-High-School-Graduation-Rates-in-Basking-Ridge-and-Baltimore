@@ -54,6 +54,11 @@ In both cities, high school graduation rates and household incomes tend to be hi
 
 This analysis demonstrates that high school graduation rates influence household income but are insufficient to explain future earnings. Other factors, such as racial inequality, could be inhibiting social mobility. This finding is important for me as a student and for my career because it has increased my awareness of the lack of equal opportunities for certain groups, especially since the data shows that children of different races who grew up in the same area can have much different outcomes, on average.
 
-## Replication of Data Analysis With Python
+## Data Visuals With Python
 
+[Link](https://colab.research.google.com/drive/14LheCASHMDRJ5-KkRydOWB_thpWA-ChV?usp=sharing) to Python Analysis in Google Colaboratory
 
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Python%20-%20Baltimore%20City%20Average%20High%20School%20Graduation%20Rates%20By%20Race.png)
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Python%20-%20Baltimore%20City%20Average%20Household%20Income%20By%20Race.png)
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Python%20-%20Basking%20Ridge%20Average%20Household%20Income%20By%20Race.png)
+![alt text](https://github.com/Daphne-Tang/Comparing-Household-Income-and-High-School-Graduation-Rates-in-Basking-Ridge-and-Baltimore-By-Race/blob/master/Python%20-%20Somerset%20County%20High%20School%20Graduation%20Rates%20By%20Race.png)
