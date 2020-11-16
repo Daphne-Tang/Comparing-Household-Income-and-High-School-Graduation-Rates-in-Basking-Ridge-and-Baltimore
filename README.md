@@ -53,3 +53,7 @@ In both cities, high school graduation rates and household incomes tend to be hi
 ## Business Answer
 
 This analysis demonstrates that high school graduation rates influence household income but are insufficient to explain future earnings. Other factors, such as racial inequality, could be inhibiting social mobility. This finding is important for me as a student and for my career because it has increased my awareness of the lack of equal opportunities for certain groups, especially since the data shows that children of different races who grew up in the same area can have much different outcomes, on average.
+
+## Replication of Data Analysis With Python
+
+
